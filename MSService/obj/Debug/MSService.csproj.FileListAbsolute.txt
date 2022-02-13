@@ -1,0 +1,10 @@
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\bin\Debug\MSService.exe.config
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\bin\Debug\MSService.exe
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\bin\Debug\MSService.pdb
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\MSService.csproj.AssemblyReference.cache
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\ManagingServicesService.ProjectInstaller.resources
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\MSService.Properties.Resources.resources
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\MSService.csproj.GenerateResource.cache
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\MSService.csproj.CoreCompileInputs.cache
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\MSService.exe
+C:\Users\PcMr\source\repos\ManagingServicesService\MSService\obj\Debug\MSService.pdb
