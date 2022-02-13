@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="03aebee6-4587-49f6-85e6-019c437e9a12" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8888/MSService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MSService.disco" MetadataType="Disco" ID="c809435b-a3c1-46df-8df4-914c53e6453f" SourceId="1" SourceUrl="http://localhost:8888/MSService?disco" />
+    <MetadataFile FileName="MSService.wsdl" MetadataType="Wsdl" ID="0d3fdf6a-8d88-41c6-967f-c9b40dac057b" SourceId="1" SourceUrl="http://localhost:8888/MSService?wsdl=wsdl0" />
+    <MetadataFile FileName="MSService.xsd" MetadataType="Schema" ID="e02471b9-482f-4963-ad39-1da7a751e5f9" SourceId="1" SourceUrl="http://localhost:8888/MSService?xsd=xsd0" />
+    <MetadataFile FileName="MSService1.xsd" MetadataType="Schema" ID="fd92202b-9524-4d6a-a9c8-d8f1874019c5" SourceId="1" SourceUrl="http://localhost:8888/MSService?xsd=xsd1" />
+    <MetadataFile FileName="MSService1.wsdl" MetadataType="Wsdl" ID="dc4f08ed-b035-4b73-b033-700492e181a6" SourceId="1" SourceUrl="http://localhost:8888/MSService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
